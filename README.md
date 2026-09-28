@@ -1,4 +1,2 @@
 # Cinema-NN
-CS4343 Final Project - Cinema Neural Network 
-
-testing push
+CS4343 Final Project - Cinema Neural Network
